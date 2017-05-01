@@ -1,0 +1,4 @@
+<?php
+ /**
+ *	BackEnd/Setups Helper  
+ */

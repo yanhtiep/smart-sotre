@@ -1,0 +1,4 @@
+<?php
+ /**
+ *	RESTfulAPI/Category Helper  
+ */

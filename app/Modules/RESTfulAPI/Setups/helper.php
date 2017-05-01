@@ -1,0 +1,4 @@
+<?php
+ /**
+ *	RESTfulAPI/Setups Helper  
+ */

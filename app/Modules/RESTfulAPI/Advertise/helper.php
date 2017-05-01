@@ -1,0 +1,4 @@
+<?php
+ /**
+ *	RESTfulAPI\Advertise Helper  
+ */

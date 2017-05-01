@@ -1,0 +1,4 @@
+<?php
+ /**
+ *	BackEnd\Attributes Helper  
+ */

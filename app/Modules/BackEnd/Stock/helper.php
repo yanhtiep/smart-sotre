@@ -1,0 +1,4 @@
+<?php
+ /**
+ *	BackEnd\Stock Helper  
+ */
